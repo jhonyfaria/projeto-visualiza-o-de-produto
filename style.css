@@ -20,7 +20,7 @@
     display: flex;
 }
 
-@media (max-width: 576px ) {
+@media (max-width: 375px) {
     #bg-card {
         background-color: hsl(0, 0%, 100%);
         width: 340px;
@@ -44,7 +44,7 @@
     border-radius: 10px 0 0 10px;
 }
 
-@media (max-width: 576px ) {
+@media (max-width: 375px) {
     #chanel{
        background: url(images/image-product-mobile.jpg) no-repeat;
        background-size:cover;
@@ -59,7 +59,7 @@
     height: 450px;
 }
 
-@media (max-width: 576px ) {
+@media (max-width: 375px) {
     #right {
       width: 340px;  
     }   
@@ -69,7 +69,7 @@
     padding: 32px;
 }
 
-@media (max-width: 576px ) {
+@media (max-width: 375px) {
     #text {
         padding: 10px 30px 0px 25px;        
     }  
@@ -121,7 +121,7 @@
     color: hsl(228, 12%, 48%)
 }
 
-@media (max-width: 576px ) {
+@media (max-width: 375px) {
     #text-1, #text h1, #text-2, #price {
         margin-top: 15px;  
     }   
@@ -147,7 +147,7 @@
     background-color:hsl(159, 37%, 20%);
 }
 
-@media (max-width: 576px ) {
+@media (max-width: 375px) {
     #button {    
         margin-top: -15px;  
         width: 290px;  
@@ -161,7 +161,7 @@
     margin-left: 60px;
 }   
 
-@media (max-width: 576px ) {
+@media (max-width: 375px) {
     #cart {    
        margin-left: 95px;        
     }   
@@ -175,7 +175,7 @@
     font-size: 14px; 
 }
 
-@media (max-width: 576px ) {
+@media (max-width: 375px) {
     #button > h2 {     
         margin-right: 85px ;
         font-size: 0.945em;  
@@ -201,7 +201,7 @@
     font-weight: bold;
 }
 
-@media (max-width: 576px ) {
+@media (max-width: 375px) {
     .attribution {       
         font-family: 'Montserrat', sans-serif;
         font-size: 0.7em; 
